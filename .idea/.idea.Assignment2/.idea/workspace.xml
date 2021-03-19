@@ -8,7 +8,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="330af6c0-6f12-4ed5-88b9-d931c0012048" name="Default Changelist" comment="" />
+    <list default="true" id="330af6c0-6f12-4ed5-88b9-d931c0012048" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616181554945</updated>
-      <workItem from="1616181556547" duration="517000" />
+      <workItem from="1616181556547" duration="685000" />
     </task>
     <task id="LOCAL-00001" summary="- Completed Assignment 2">
       <created>1616181902189</created>
@@ -66,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616181902189</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="- Completed Assignment 2">
+      <created>1616182119092</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616182119092</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,7 +96,41 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="- Completed Assignment 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Completed Assignment 2" />
+    <MESSAGE value="- Updated Workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Updated Workspace" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="805" y="419" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog" timestamp="1616182162004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="805" y="419" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog/1920.0.1920.1040/-1920.-122.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1616182162004" />
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1616182241033">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom/1920.0.1920.1040/-1920.-122.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1616182241033" />
+    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1616182241032">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.center/1920.0.1920.1040/-1920.-122.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1616182241032" />
+    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1616182241032">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.left/1920.0.1920.1040/-1920.-122.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1616182241032" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1616182241033">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.right/1920.0.1920.1040/-1920.-122.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1616182241033" />
+    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size" timestamp="1616181796253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size/1920.0.1920.1040/-1920.-122.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1616181796253" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1616182191748">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/-1920.-122.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1616182191748" />
+    <state x="679" y="416" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1616182185498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="416" key="git4idea.remote.GitConfigureRemotesDialog/1920.0.1920.1040/-1920.-122.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1616182185498" />
   </component>
 </project>
